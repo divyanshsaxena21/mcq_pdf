@@ -1,2 +1,2 @@
 #!/bin/bash
-uvicorn api.main:app --reload --port 8000
+gunicorn api.main:app -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:$PORT
