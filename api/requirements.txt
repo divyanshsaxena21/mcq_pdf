@@ -11,3 +11,4 @@ PyMuPDF
 youtube-transcript-api
 tqdm
 gunicorn
+langchain_community
