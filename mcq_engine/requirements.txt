@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+nltk
+torch
+transformers
+langchain
+python-docx
+python-pptx
+PyMuPDF
+youtube-transcript-api
+tqdm
+gunicorn
